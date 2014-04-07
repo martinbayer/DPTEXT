@@ -1,0 +1,28 @@
+\select@language {czech}
+\contentsline {section}{\numberline {1}\IeC {\'U}vod}{5}{section.1}
+\contentsline {section}{\numberline {2}Popis zp\IeC {\r u}sobu logov\IeC {\'a}n\IeC {\'\i } a pou\IeC {\v z}\IeC {\'\i }van\IeC {\'e} frameworky}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Logov\IeC {\'a}n\IeC {\'\i } v aplikac\IeC {\'\i }ch}{7}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Pro\IeC {\v c} se logov\IeC {\'a}n\IeC {\'\i } pou\IeC {\v z}\IeC {\'\i }v\IeC {\'a}}{7}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Jak se logov\IeC {\'a}n\IeC {\'\i } pou\IeC {\v z}\IeC {\'\i }v\IeC {\'a}}{7}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Pou\IeC {\v z}\IeC {\'\i }van\IeC {\'e} frameworky}{8}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}SLF4J}{8}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}Logback framework}{10}{subsection.2.6}
+\contentsline {subsection}{\numberline {2.7}V\IeC {\'y}kon}{12}{subsection.2.7}
+\contentsline {section}{\numberline {3}Pou\IeC {\v z}it\IeC {\'e} technologie}{13}{section.3}
+\contentsline {subsection}{\numberline {3.1}OSGI a Equinox}{13}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Eclipse}{14}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}E4}{15}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Dependency Injection}{16}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Logov\IeC {\'a}n\IeC {\'\i }}{17}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Aplika\IeC {\v c}n\IeC {\'\i } model}{17}{subsubsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.4}Handlery}{17}{subsubsection.3.3.4}
+\contentsline {subsection}{\numberline {3.4}SWT a JFace}{17}{subsection.3.4}
+\contentsline {section}{\numberline {4}E4Logsis}{19}{section.4}
+\contentsline {subsection}{\numberline {4.1}Hlavn\IeC {\'\i } principy a my\IeC {\v s}lenky}{19}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}N\IeC {\'a}vrhov\IeC {\'y} vzor Chain of responsibility a jeho pou\IeC {\v z}it\IeC {\'\i }}{19}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}\IeC {\v R}\IeC {\'\i }d\IeC {\'\i }c\IeC {\'\i } komponenta}{20}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Architektura}{20}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Grafick\IeC {\'e} rozhran\IeC {\'\i }}{20}{subsection.4.5}
+\contentsline {subsubsection}{\numberline {4.5.1}Paleta s procesory}{20}{subsubsection.4.5.1}
+\contentsline {subsubsection}{\numberline {4.5.2}Canvas}{21}{subsubsection.4.5.2}
+\contentsline {section}{\numberline {5}Reference}{23}{section.5}
