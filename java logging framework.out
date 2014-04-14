@@ -1,0 +1,22 @@
+\BOOKMARK [1][-]{section.1}{\332vod}{}% 1
+\BOOKMARK [1][-]{section.2}{Popis zpusobu logov\341n\355 a pou\236\355van\351 frameworky}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Logov\341n\355 v aplikac\355ch}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Proc se logov\341n\355 pou\236\355v\341}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Jak se logov\341n\355 pou\236\355v\341}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Pou\236\355van\351 frameworky}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{SLF4J}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Logback framework}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{V\375kon}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{Pou\236it\351 technologie}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{OSGI a Equinox}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.2}{Eclipse}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.3}{E4}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.4}{SWT a JFace}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{E4Logsis}{}% 15
+\BOOKMARK [2][-]{subsection.4.1}{Hlavn\355 principy a my\235lenky}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.2}{N\341vrhov\375 vzor Chain of responsibility a jeho pou\236it\355}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.3}{R\355d\355c\355 komponenta}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.4}{Architektura}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.5}{Grafick\351 rozhran\355}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.6}{Business procesory}{section.4}% 21
+\BOOKMARK [1][-]{section.5}{Reference}{}% 22
